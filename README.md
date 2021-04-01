@@ -19,11 +19,11 @@ $ flutter run
 
 1. Home Screen - Numbers On
 
-![Simulator Screen Shot - iPhone 11 Pro - 2021-03-31 at 21 19 13](https://user-images.githubusercontent.com/51540772/113227313-c851f300-9268-11eb-9b63-6ae54e4991c6.png)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/51540772/113227411-06e7ad80-9269-11eb-82d4-6a959f1aa532.png)
 
 2. Home Screen - Numbers Off
 
-![Simulator Screen Shot - iPhone 11 Pro - 2021-03-31 at 21 19 17](https://user-images.githubusercontent.com/51540772/113227320-cbe57a00-9268-11eb-9a5c-cb22e93ccfce.png)
+![Webp net-resizeimage-2](https://user-images.githubusercontent.com/51540772/113227418-08b17100-9269-11eb-90b4-42a44ddc9d4d.png)
 
 
 
