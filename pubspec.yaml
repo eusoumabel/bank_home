@@ -1,0 +1,49 @@
+name: flutter_challenge_3
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Used to handler http requests
+  dio: ^3.0.9
+  # Used to handler translations
+  intl_utils: ^1.3.0
+  # Used to aply the shimme effect
+  shimmer: ^1.1.2
+  # Used to get more fonts
+  google_fonts: ^1.1.2
+  # Used to build simple animations
+  simple_animations: ^2.2.1
+  # Used to get informations about the user's device
+  device_info: ^1.0.0
+  # Used to custom the louncher icon
+  flutter_launcher_icons: ^0.8.1
+  # Used to parse svg images
+  flutter_svg: ^0.19.3
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/icon_app.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - icons/
+  
